@@ -1,0 +1,19 @@
+{
+    "name": "idoalit/hellow-world",
+    "description": "Sample plugin",
+    "type": "slims-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Idoalit\\HellowWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Waris Agung Widodo",
+            "email": "ido.alit@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
